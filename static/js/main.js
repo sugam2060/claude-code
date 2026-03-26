@@ -1,3 +1,1 @@
-// Main JavaScript file
-
-console.log('App loaded');
+// main.js — students will add JavaScript here as features are built
